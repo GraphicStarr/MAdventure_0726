@@ -1,0 +1,11 @@
+
+Input											Processing											Output
+
+Kitchen							                 receive "kitchen"							display message for choose  "refrigerator" or "cabinet" 
+Refrigerator								receive "refrigerator"					display message for choose  "yes" or "no" to eat the food
+Cabinet									receive "cabinet"							display message for choose  "yes" or "no"  to use item 
+Upstairs									receive "upstairs"					display message for choose  "masterroom" or "bathroom" to enter 
+Masterroom								receive "masterroom"					display message for choose  "yes" or "no" to open the clset door
+Bathroom									receive "bathroom"					display message for choose  "yes" or "no"  to close leaking water tap
+
+
